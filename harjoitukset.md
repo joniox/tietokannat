@@ -34,8 +34,11 @@ Tenttivastaukset:
 
 # Yhteen tauluun kohdistuvat kyselyt
 
-Tehtävä 1 vastaus:
+Tehtävä 1 Tee kysely, joka tulostaa kaikki sarakkeet goal-talusta.
+
+Vastaus:
 
 select * from goal;
 
 ![VKO2_Tehtava1.png](VKO2_Tehtava1.png)
+

@@ -29,3 +29,13 @@ Tenttivastaukset:
 23. goal_reached
 24. goal_id, game_id
 25. 2
+
+# VIIKKO 2
+
+# Yhteen tauluun kohdistuvat kyselyt
+
+Tehtävä 1 vastaus:
+
+select * from goal;
+
+![ruudunkaappaus](VKO2_Tehtävä1.png)

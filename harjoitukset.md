@@ -38,4 +38,4 @@ Tehtävä 1 vastaus:
 
 select * from goal;
 
-![VKO2_Tehtävä1.png](VKO2_Tehta%CC%88va%CC%881.png)
+![VKO2_Tehtava1.png](VKO2_Tehtava1.png)
